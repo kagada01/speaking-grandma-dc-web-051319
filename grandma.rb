@@ -3,7 +3,7 @@ def speak_to_grandma(statement)
   if (statement = "I LOVE YOU GRANDMA")
     love = "I LOVE YOU TOO PUMPKIN!"
       love
-  elsif (statement)
+  elsif (statement = statement.)
   
   else
     
