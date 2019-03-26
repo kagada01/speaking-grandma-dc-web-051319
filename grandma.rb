@@ -1,6 +1,6 @@
 
 def speak_to_grandma(statement)
-  if 
+  if (statement = "I LOVE YOU GRANDMA")
 
 
 end
