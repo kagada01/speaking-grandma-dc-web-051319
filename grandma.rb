@@ -3,12 +3,12 @@ def speak_to_grandma(statement)
   if (statement = "I LOVE YOU GRANDMA")
     love = "I LOVE YOU TOO PUMPKIN!"
       love
-  elsif (statement = statement.upcase)
-    loud = "NO, NOT SINCE 1938!"
-      loud
-  else
-    quiet = "HUH?! SPEAK UP, SONNY!"
-      quiet
+    elsif (statement = statement.upcase)
+      loud = "NO, NOT SINCE 1938!"
+        loud
+      else
+        quiet = "HUH?! SPEAK UP, SONNY!"
+          quiet
   end  
 end
 
