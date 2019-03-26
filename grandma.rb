@@ -4,7 +4,8 @@ def speak_to_grandma(statement)
     love = "I LOVE YOU TOO PUMPKIN!"
       love
   elsif (statement = statement.upcase)
-  
+    loud = "HUH?! SPEAK UP, SONNY!"
+      loud
   else
     
   end  
