@@ -7,7 +7,7 @@ def speak_to_grandma(statement)
     loud = "NO, NOT SINCE 1938!"
       loud
   else
-    
+    quiet = "HUH?! SPEAK UP, SONNY!"
   end  
 end
 
