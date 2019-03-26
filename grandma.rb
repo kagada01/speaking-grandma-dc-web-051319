@@ -6,7 +6,7 @@ def speak_to_grandma(statement)
     elsif (statement = statement.upcase)
       loud = "NO, NOT SINCE 1938!"
         loud
-      else
+      else (statement = statement)
         quiet = "HUH?! SPEAK UP, SONNY!"
           quiet
   end
